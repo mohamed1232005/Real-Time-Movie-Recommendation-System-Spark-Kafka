@@ -884,7 +884,7 @@ tail -n 20 ~/movie-recommendation-system/outputs/alerts/alerts.log
 
 ## Team
 
-| Name | ID |
+| Name | Mail |
 |---|---|
-| Mohamed Ehab Yousri | 202201236 |
-| Yousef Selim | 202201255 |
+| Mohamed Ehab Yousri | s-mohamed.ehab@zewailcity.edu.eg |
+| Yousef Selim | s-yousef.shawky@zewailcity.edu.eg |
