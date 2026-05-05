@@ -9,8 +9,6 @@ Apache Spark · Apache Kafka · ALS Collaborative Filtering · Spark Structured 
 
 **Domain:** Movies (MovieLens 1M)  
 **System Focus:** Real-Time Intelligence  
-**GitHub:** https://github.com/mohamed1232005/Real-Time-Movie-Recommendation-System-Spark-Kafka
-
 ---
 
 ## Overview
